@@ -1,0 +1,10 @@
+[16-Jan-2023 05:56:19 America/Boise] PHP Warning:  require_once(/home3/tbnekwmy/public_html/steeltoe/public/index.php): Failed to open stream: No such file or directory in /home3/tbnekwmy/public_html/steeltoe/index.php on line 21
+[16-Jan-2023 05:56:19 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/tbnekwmy/public_html/steeltoe/public/index.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/tbnekwmy/public_html/steeltoe/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/tbnekwmy/public_html/steeltoe/index.php on line 21
+[16-Jan-2023 05:56:24 America/Boise] PHP Warning:  require_once(/home3/tbnekwmy/public_html/steeltoe/public/index.php): Failed to open stream: No such file or directory in /home3/tbnekwmy/public_html/steeltoe/index.php on line 21
+[16-Jan-2023 05:56:24 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home3/tbnekwmy/public_html/steeltoe/public/index.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/tbnekwmy/public_html/steeltoe/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/tbnekwmy/public_html/steeltoe/index.php on line 21
